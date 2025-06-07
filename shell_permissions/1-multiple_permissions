@@ -1,1 +1,1 @@
-#!/bin/bash\nchmod u+x 755 hello
+#!/bin/bash\nchmod u+x 777  hello
