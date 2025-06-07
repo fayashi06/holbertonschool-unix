@@ -1,2 +1,1 @@
-#!/bin/bash
-cp
+echo -e '#!/bin/bash\ncp -u ./*.html ..' > 5-copy_html
