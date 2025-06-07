@@ -1,0 +1,1 @@
+echo -e #!/bin/bash\nchmod o+x hello
